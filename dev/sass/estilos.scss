@@ -1,0 +1,11 @@
+$color: red;
+$colordos: blue;
+
+body {
+    background-color: $color;
+  .main{
+      color:$colordos ;
+      display:flex;
+      flex-direction: column;
+  }    
+}
